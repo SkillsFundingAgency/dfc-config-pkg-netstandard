@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Provides storage layer for shared configuration in File Storage. Will read file from app_data in format of environmentname_servicename_version.json</Description>
+    <Authors>ESFA</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DFC.Configuration.Core\DFC.Configuration.csproj" />
+  </ItemGroup>
+
+</Project>
