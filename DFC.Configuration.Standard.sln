@@ -40,7 +40,6 @@ Global
 		{55C8C27D-CDEE-478E-8827-9E3E88BBB341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{55C8C27D-CDEE-478E-8827-9E3E88BBB341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C8C27D-CDEE-478E-8827-9E3E88BBB341}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55C8C27D-CDEE-478E-8827-9E3E88BBB341}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
