@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration", "DFC.Configuration\DFC.Configuration.csproj", "{D0AF5CF8-252C-4F0D-A4E9-77FBAAD69861}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration", "DFC.Configuration.Standard\DFC.Configuration\DFC.Configuration.csproj", "{D0AF5CF8-252C-4F0D-A4E9-77FBAAD69861}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration.AzureTableStorage", "DFC.Configuration.AzureTableStorage\DFC.Configuration.AzureTableStorage.csproj", "{49876E82-F65E-419F-803B-F18DC09F2C4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration.AzureTableStorage", "DFC.Configuration.Standard\DFC.Configuration.AzureTableStorage\DFC.Configuration.AzureTableStorage.csproj", "{49876E82-F65E-419F-803B-F18DC09F2C4B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration.FileStorage", "DFC.Configuration.FileStorage\DFC.Configuration.FileStorage.csproj", "{5A1C681C-7920-4EA4-A2A5-A21C9F4F2EB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration.FileStorage", "DFC.Configuration.Standard\DFC.Configuration.FileStorage\DFC.Configuration.FileStorage.csproj", "{5A1C681C-7920-4EA4-A2A5-A21C9F4F2EB3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{E7E77D61-6A8F-4830-ADA2-1C9E6E9AE052}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GettingConfiguration", "GettingConfiguration\GettingConfiguration.csproj", "{CB6F3DC5-BF26-4583-9470-EC1A991B68E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GettingConfiguration", "DFC.Configuration.Standard\GettingConfiguration\GettingConfiguration.csproj", "{CB6F3DC5-BF26-4583-9470-EC1A991B68E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration.Tests", "DFC.Configuration.Tests\DFC.Configuration.Tests.csproj", "{55C8C27D-CDEE-478E-8827-9E3E88BBB341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFC.Configuration.Tests", "DFC.Configuration.Standard\DFC.Configuration.Tests\DFC.Configuration.Tests.csproj", "{55C8C27D-CDEE-478E-8827-9E3E88BBB341}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
