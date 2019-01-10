@@ -14,3 +14,14 @@
 /DFC.Configuration.Core/DFC.Configuration.FileStorage/obj
 /DFC.Configuration.Core/GettingConfiguration/bin/Debug/netcoreapp2.1
 /DFC.Configuration.Core/GettingConfiguration/obj
+/DFC.Configuration.Standard/.vs
+/DFC.Configuration.Standard/DFC.Configuration/bin/Debug
+/DFC.Configuration.Standard/DFC.Configuration/obj
+/DFC.Configuration.Standard/DFC.Configuration.AzureTableStorage/bin/Debug
+/DFC.Configuration.Standard/DFC.Configuration.AzureTableStorage/obj
+/DFC.Configuration.Standard/DFC.Configuration.FileStorage/bin/Debug
+/DFC.Configuration.Standard/DFC.Configuration.FileStorage/obj
+/DFC.Configuration.Standard/DFC.Configuration.Tests/bin/Debug/netcoreapp2.1
+/DFC.Configuration.Standard/DFC.Configuration.Tests/obj
+/DFC.Configuration.Standard/GettingConfiguration/bin/Debug
+/DFC.Configuration.Standard/GettingConfiguration/obj
